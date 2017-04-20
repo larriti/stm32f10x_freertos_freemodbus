@@ -1,0 +1,10 @@
+-DUSE_STDPERIPH_DRIVER
+-DSTM32F10X_MD
+
+-IDrivers/CMSIS/Device/include
+-IDrivers/CMSIS/include
+-IDrivers/STM32F10x_StdPeriph_Driver/inc
+-IUser/include
+
+-IThirdParty/FreeRTOS/include
+-IThirdParty/Modbus/include
